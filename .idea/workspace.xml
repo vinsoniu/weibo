@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="582ef4c3-8e83-4b78-9909-78a3de293ed8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/users/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/create.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -164,7 +165,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622555659561</updated>
-      <workItem from="1622555661488" duration="2696000" />
+      <workItem from="1622555661488" duration="2808000" />
+      <workItem from="1622641258192" duration="543000" />
     </task>
     <servers />
   </component>
@@ -181,16 +183,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="712" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622556184067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="712" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1622556184067" />
-    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1622555876026">
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1622641785103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622555876026" />
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622641785103" />
     <state x="776" y="443" key="NewPhpFileDialog" timestamp="1622559352339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
